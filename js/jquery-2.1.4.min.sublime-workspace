@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"pr",
+				"pra"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onmous",
+				"onmouseover\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lenovo/Documents/finalcoursera/bootstrap.min.css",
+		"/C/Users/Lenovo/Documents/finalcoursera/style.css",
+		"/C/Users/Lenovo/Documents/finalcoursera/bootstrap.css",
+		"/C/Users/Lenovo/Documents/finalcoursera/index.html",
+		"/C/Users/Lenovo/Documents/finalcoursera/ajax-utils.js",
+		"/C/Users/Lenovo/Documents/finalcoursera/script.js",
+		"/C/Users/Lenovo/Desktop/assignment5-solution-starter/js/script.js",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_fullstack-course4-master.zip/fullstack-course4-master/assignments/assignment5/assignment5-solution-starter/index.html",
+		"/C/Users/Lenovo/Desktop/script.js",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_fullstack-course4-master.zip/fullstack-course4-master/examples/Lecture53/index.html",
+		"/C/Users/Lenovo/Documents/coursera/script.js",
+		"/C/Users/Lenovo/Documents/coursera/speakhello.js",
+		"/C/Users/Lenovo/Documents/coursera/speakgoodbye.js",
+		"/C/Users/Lenovo/Documents/coursera/index.html",
+		"/C/Users/Lenovo/Downloads/newfile.cxx",
+		"/C/Users/Lenovo/test/vaccum-cleaner.cpp",
+		"/C/Users/Lenovo/test/Skip to content.sh",
+		"/C/Users/Lenovo/test/README.md",
+		"/C/Users/Lenovo/test/index.html",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/Lenovo/Documents/style.css",
+		"/C/Users/Lenovo/Documents/index.html",
+		"/C/Users/Lenovo/Desktop/fullstack-course4-master.zip",
+		"/C/Users/Lenovo/Desktop/web/style.css",
+		"/C/Users/Lenovo/Desktop/web/contact.html",
+		"/C/Users/Lenovo/Desktop/web/residential.html",
+		"/C/Users/Lenovo/Desktop/web/about.html",
+		"/C/Users/Lenovo/Desktop/web/features.html",
+		"/C/Users/Lenovo/Desktop/web/index.html",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_fullstack-course4-master.zip/fullstack-course4-master/examples/Lecture25/index.html",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_Html.zip/html.html",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_fullstack-course4-master.zip/fullstack-course4-master/examples/Lecture26/grid-after.html",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_fullstack-course4-master.zip/fullstack-course4-master/examples/Lecture26/grid-before.html",
+		"/C/Users/Lenovo/Desktop/web/nav.html",
+		"/C/Users/Lenovo/Desktop/WT1/style.css",
+		"/C/Users/Lenovo/Desktop/WT1/index.html",
+		"/C/Users/Lenovo/Desktop/task1.html",
+		"/C/Users/Lenovo/Desktop/index.html",
+		"/C/Users/Lenovo/Desktop/index (2).html",
+		"/C/Users/Lenovo/Desktop/style1.css",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_fullstack-course4-master.zip/fullstack-course4-master/examples/Lecture23/media-queries-after.html",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_fullstack-course4-master.zip/fullstack-course4-master/examples/Lecture23/media-queries-before.html",
+		"/C/Users/Lenovo/Desktop/css",
+		"/C/Users/Lenovo/Desktop/html.html",
+		"/C/Users/Lenovo/Desktop/sublime/Assignment1/css",
+		"/C/Users/Lenovo/Desktop/sublime/Assignment1/review.html",
+		"/C/Users/Lenovo/Desktop/sublime/Assignment1/index.html",
+		"/C/Users/Lenovo/Desktop/sublime/Assignment1/style.css",
+		"/C/Users/Lenovo/Desktop/sublime/homework.html",
+		"/C/Users/Lenovo/Desktop/sublime/homework1.html",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_fullstack-course4-master.zip/fullstack-course4-master/examples/Lecture24/responsive-before.html",
+		"/C/Users/Lenovo/Desktop/sublime/index.html",
+		"/C/Users/Lenovo/Desktop/sublime/123",
+		"/C/Users/Lenovo/Desktop/sublime/style.css",
+		"/C/Users/Lenovo/Desktop/sublime/html.html",
+		"/C/Users/Lenovo/Desktop/html-css.html",
+		"/C/xampp/htdocs/project/view.php",
+		"/C/xampp/htdocs/project/connect.php",
+		"/C/xampp/htdocs/project/add.php",
+		"/C/xampp/htdocs/project/index.php",
+		"/C/xampp/htdocs/project/1.php",
+		"/C/xampp/htdocs/project/view1.php",
+		"/C/xampp/htdocs/task/index.php",
+		"/C/xampp/htdocs/task/index.html",
+		"/C/Users/Lenovo/Desktop/task/index.html",
+		"/C/Users/Lenovo/Desktop/1.php",
+		"/C/xampp/htdocs/collegeinventory/index.php",
+		"/C/Users/Lenovo/Desktop/jsbin.rajijix.1.html",
+		"/C/Users/Lenovo/Desktop/homework.html",
+		"/C/Users/Lenovo/Desktop/jsbin.biyoler.5.html",
+		"/C/Users/Lenovo/Desktop/smita1.html",
+		"/C/Users/Lenovo/Desktop/jsbin.biyoler.9.html",
+		"/C/Users/Lenovo/Desktop/recipe.html",
+		"/C/Users/Lenovo/AppData/Local/Temp/Temp1_Html.zip/recipe.html",
+		"/C/Users/Lenovo/Desktop/jsbin.biyoler.4.html",
+		"/C/xampp/htdocs/collegeinventory/navbar.php",
+		"/C/xampp/htdocs/collegeinventory/login.php",
+		"/C/xampp/htdocs/inventory/index.php",
+		"/C/xampp/htdocs/inventory/aboutus.php",
+		"/C/xampp/htdocs/inventory/login1.php",
+		"/C/xampp/htdocs/inventory/index1.php",
+		"/C/xampp/htdocs/inventory/navbar.php",
+		"/C/xampp/htdocs/inventory/Register.php",
+		"/C/xampp/htdocs/inventory/userinfo.php",
+		"/C/xampp/htdocs/inventory/23.php",
+		"/C/xampp/htdocs/inventory/deviceinfo.php",
+		"/C/xampp/htdocs/inventory/css/style.css",
+		"/C/Users/Lenovo/Downloads/Minor_Project_Report_Template.rar",
+		"/C/xampp/htdocs/inventory/logout.php",
+		"/C/Users/Lenovo/Downloads/Minor_Project_Report_Template (1).rar",
+		"/C/xampp/htdocs/collegeinventory",
+		"/C/xampp/htdocs/inventory/Login.php",
+		"/C/xampp/htdocs/inventory/login1",
+		"/C/xampp/htdocs/inventory/images/1.png",
+		"/C/xampp/htdocs/inventory/log1.php",
+		"/C/xampp/htdocs/inventory/Login1.php",
+		"/C/Users/Lenovo/Desktop/smita/Anjular JS/Index.html",
+		"/C/Users/Lenovo/Downloads/Inventory (1).rar",
+		"/C/Users/Lenovo/Desktop/GoogleMapDirectionSimple-master/gradle/wrapper/gradle-wrapper.jar"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jquery-2.1.4.min.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
